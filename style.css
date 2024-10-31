@@ -10,8 +10,8 @@
     margin-left: 20%;
     border: 35px solid #e5e4e290	;
     display: flex;
-    opacity: 0.9; /* Adjust the alpha value as needed (0 is fully transparent, 1 is fully opaque) */
-
+    opacity: 0.9; 
+  background: #0000;
 }
 
 .main{
